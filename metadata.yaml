@@ -1,0 +1,39 @@
+_repo: Lemmen-nayttelijatar-Romantillinen-kuvaelma_66549
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brummer, F. F. (Frans Ferdinand)
+    aliases:
+    - –r–r
+    - Brummer, Frans Ferdinand
+    birthdate: 1847
+    deathdate: 1893
+    gutenberg_agent_id: '33001'
+    url: http://www.gutenberg.org/2009/agents/33001
+    wikipedia: https://fi.wikipedia.org/wiki/F._F._Brummer
+creator:
+  author:
+    agent_name: Blanche, August
+    alias: Blanche, August Teodor
+    birthdate: 1811
+    deathdate: 1868
+    gutenberg_agent_id: '31667'
+    url: http://www.gutenberg.org/2009/agents/31667
+    wikipedia:
+    - https://en.wikipedia.org/wiki/August_Blanche
+    - https://fi.wikipedia.org/wiki/August_Blanche
+    - https://sv.wikipedia.org/wiki/August_Blanche
+description: ''
+gutenberg_issued: '2021-10-16'
+identifiers:
+  gutenberg: '66549'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Lemmen näyttelijätär: Romantillinen kuvaelma'
+url: http://www.gutenberg.org/ebooks/66549
